@@ -22,7 +22,7 @@ Download the dataset from the following link:
 
 * Import data and keep the relevant columns
 * Data transformation
-* Imputate missing data
+* Impute missing data
 * Create new features using existing data
 * Visualize the preprocessed data 
 * Split - train and test validation sets
