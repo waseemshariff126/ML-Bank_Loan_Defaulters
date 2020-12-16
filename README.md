@@ -20,16 +20,16 @@ Download the dataset from the following link:
 
 ### Steps Followed
 
--> Import data and keep the relevant columns
--> Data transformation
--> Imputate missing data
--> Create new features using existing data
--> Visualize the preprocessed data 
--> Split - train and test validation sets
--> Build model 
--> Predict, Accuracy, ROC-AUC
--> Analyze the results using Confusion matrix
--> Predict the test set and save results
+* Import data and keep the relevant columns
+* Data transformation
+* Imputate missing data
+* Create new features using existing data
+* Visualize the preprocessed data 
+* Split - train and test validation sets
+* Build model 
+* Predict, Accuracy, ROC-AUC
+* Analyze the results using Confusion matrix
+* Predict the test set and save results
 
 
 ### References 
