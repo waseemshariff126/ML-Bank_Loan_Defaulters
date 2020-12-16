@@ -18,6 +18,20 @@ In this challenge, you will help this bank by predicting the probability that a 
 Download the dataset from the following link:
 - https://drive.google.com/drive/folders/1LiXD3_bzE_TmlSuxButYeBmiBu9mWOll?usp=sharing
 
+### Steps Followed
+
+-> Import data and keep the relevant columns
+-> Data transformation
+-> Imputate missing data
+-> Create new features using existing data
+-> Visualize the preprocessed data 
+-> Split - train and test validation sets
+-> Build model 
+-> Predict, Accuracy, ROC-AUC
+-> Analyze the results using Confusion matrix
+-> Predict the test set and save results
+
+
 ### References 
 [1] https://economictimes.indiatimes.com/analysis/what-is-emi-and-how-is-it-calculated/articleshow/39880530.cms?from=mdr
 
